@@ -1,4 +1,4 @@
-import Tkinter ad tk
+import Tkinter as tk
 import web.web_scraper as web_scraper
 import pdf.pdf_scraper as pdf_scraper
 import pdf.pdf_utils as pdf_utils
