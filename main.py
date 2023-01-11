@@ -4,10 +4,10 @@
 
 
 def main():
-    root = tk.Tk()
+    #root = tk.Tk()
     app = MainWindow(root)
     app.mainloop()
 
 
 if __name__ == '__main__':
-    main()
+    #main()
