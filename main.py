@@ -1,13 +1,5 @@
-#import tkinter
-
-from gui.main_window import MainWindow
-
-
-def main():
-    #root = tk.Tk()
-    app = MainWindow(root)
-    app.mainloop()
-
-
-#if __name__ == '__main__':
-    #main()
+import web.web_scraper as web_scraper
+import pdf.pdf_scraper as pdf_scraper
+import pdf.pdf_utils as pdf_utils
+import model.test_porcessing as test_processing
+import model.topic_modeling as topic_modeling
