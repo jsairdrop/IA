@@ -1,6 +1,6 @@
 #import tkinter
 
-from gui.main_window import MainWindow
+#from gui.main_window import MainWindow
 
 
 def main():
