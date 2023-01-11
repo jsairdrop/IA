@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter
 
 from gui.main_window import MainWindow
 
